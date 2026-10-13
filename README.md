@@ -44,6 +44,6 @@ research-rizz/
 
 The package contains instructions and optional display metadata, with no executable code or telemetry. Context comes from the conversation and sources provided to the assistant. Any browsing uses the host assistant's existing tools and privacy settings.
 
-## Evidence and attribution
+## Method references
 
-Research RIZZ adapts established TRIZ, Function-Oriented Search and analogical-reasoning methods. Primary method and implementation references are linked in `SKILL.md`. It includes selected TRIZ principles, not a complete TRIZ database. Comparative improvement in ideation has not been established.
+Research RIZZ combines TRIZ, Function-Oriented Search and analogical reasoning. Selected TRIZ principles are built into `SKILL.md`, along with links to the original methods and related implementations.

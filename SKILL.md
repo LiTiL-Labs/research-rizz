@@ -105,7 +105,7 @@ Return the result in the conversation. If file access is available and useful fo
 
 ## Method lineage
 
-This is a tailored synthesis of established methods, not a claim to have invented cross-disciplinary reasoning or demonstrated better ideation. These public links are optional background and attribution, not files or services the skill must load to run.
+Research RIZZ combines TRIZ, Function-Oriented Search and analogical reasoning. The links below provide optional background and attribution. All instructions needed to use the skill are included above.
 
 - [TRIZ40 — method and inventive principles](https://www.triz40.com/triz-method.php)
 - [TRIZ Function-Oriented Search — MATRIZ](https://wiki.matriz.org/docs/triz/problem-solving-tools-5890/function-oriented-search-fos/)
