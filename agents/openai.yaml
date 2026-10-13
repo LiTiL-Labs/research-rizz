@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research RIZZ"
+  short_description: "Find, adapt, and challenge ideas from other fields"
+  default_prompt: "Use $research-rizz on the active problem or research question in this session: investigate mechanisms from other fields, develop an adaptation or better framing, and recommend an informative next investigation, retaining a credible wildcard when useful."
